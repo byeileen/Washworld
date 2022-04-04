@@ -1,0 +1,70 @@
+* {
+  margin: 0 auto;
+}
+
+
+body{
+  background-color: #000000;
+  font-family: Gilroy,Trebuchet MS,Arial,Helvetica,Verdana;
+}
+/* header bar */
+.header{
+  text-align: center;
+  background: #00C167;
+  color: white;
+  padding: 20px;
+}
+
+.header-img{
+  height: 50px;
+  margin-right: 7px;
+}
+
+/* location buttons */
+.index-buttons{
+  width: 350px;
+}
+
+.btn-location{
+  background-color: #00C167;
+  padding: 20px;
+  margin-top: 50px;
+  text-align: center;
+  color:white;
+}
+
+/* licenseplate page */
+.lcp-page {
+  background-color: #00C167;
+  padding: 20px;
+  margin-top: 50px;
+  text-align: center;
+  color:white;
+}
+
+.red-page {
+  background-color: red;
+}
+/* program page */
+.program-page {
+  background: #00C167;
+  padding: 15px;
+  margin-top: 50px;
+}
+
+.header-program-page{
+  color: white;
+  margin-top:20px;
+}
+
+.btn-card{
+  background-color: #00C167;
+  border:none;
+}
+/* confirm page */
+.confirm-page {
+  background: #00C167;
+  padding: 25px;
+  margin-top: 50px;
+  text-align: center;
+}
